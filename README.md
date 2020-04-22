@@ -180,10 +180,6 @@ all together: all the above at the same time
 ```
 Every test is executed 1 million times, the time is taken with `process.hrtime()`, the final result is expressed in operations per second.
 
-<a name="todo"></a>
-### TODO:
-- [ ] Add a list of the supported features by every router
-
 <a name="license"></a>
 ## License
 
